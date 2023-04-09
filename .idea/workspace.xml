@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ChangeListManager">
-    <list default="true" id="4f44edd2-aa9d-4f0c-a475-eb2d7255bf4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-=======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,35 +18,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="master" />
-              </list>
-            </value>
-          </entry>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="here" />
-=======
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="nick" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,103 +32,21 @@
         <option name="repository" value="test_git" />
       </RepoCoordinatesHolder>
     </option>
-<<<<<<< HEAD
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/file2.txt" root0="SKIP_INSPECTION" />
-=======
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="80d94790-4016-4244-b208-4c289e30fe64" />
         <option name="url" value="https://github.com/sir-timoxa/test_git" />
       </UrlAndAccount>
     </option>
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="2O9D4SJ9aRgmx3JoE66pW03QpsE" />
-=======
   <component name="ProjectId" id="2O9Cie5Bvz8EAmSfbhEEbVksTqW" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject/lesson 5 HW.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\pythonProject" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="HW 5 for git" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonProject" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonProject/HW 5 for git.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.HW 5 for git" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4f44edd2-aa9d-4f0c-a475-eb2d7255bf4c" name="Changes" comment="" />
-      <created>1680963714923</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1680963714923</updated>
-    </task>
-    <task id="LOCAL-00001" summary="hello">
-      <created>1680964875573</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680964875573</updated>
-    </task>
-    <task id="LOCAL-00002" summary="hello. I'm here">
-      <created>1680970807425</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1680970807425</updated>
-    </task>
-    <task id="LOCAL-00003" summary="hello. I'm here">
-      <created>1680987011364</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1680987011364</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -242,7 +127,6 @@
       <updated>1681047987916</updated>
     </task>
     <option name="localTasksCounter" value="10" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,11 +140,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-<<<<<<< HEAD
-                        <option value="origin/master" />
-=======
                         <option value="HEAD" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
                       </list>
                     </value>
                   </entry>
@@ -278,14 +158,6 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-<<<<<<< HEAD
-                  <option value="HEAD" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-=======
                   <option value="master" />
                 </option>
               </RecentGroup>
@@ -298,7 +170,6 @@
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="*" />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
                 </option>
               </RecentGroup>
             </list>
@@ -308,16 +179,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
-    <MESSAGE value="hello" />
-    <MESSAGE value="hello. I'm here" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello. I'm here" />
-=======
     <MESSAGE value="1" />
     <MESSAGE value="nowoe" />
     <MESSAGE value="HW-5. Beginning from Alena" />
     <MESSAGE value="This directory is created for Alena." />
     <option name="LAST_COMMIT_MESSAGE" value="This directory is created for Alena." />
->>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   </component>
 </project>
