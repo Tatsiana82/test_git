@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="4f44edd2-aa9d-4f0c-a475-eb2d7255bf4c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <excluded-from-favorite>
       <branch-storage>
         <map>
@@ -40,6 +49,11 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="here" />
+=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="nick" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,18 +65,32 @@
         <option name="repository" value="test_git" />
       </RepoCoordinatesHolder>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/file2.txt" root0="SKIP_INSPECTION" />
+=======
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="80d94790-4016-4244-b208-4c289e30fe64" />
+        <option name="url" value="https://github.com/sir-timoxa/test_git" />
+      </UrlAndAccount>
+    </option>
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2O9D4SJ9aRgmx3JoE66pW03QpsE" />
+=======
+  <component name="ProjectId" id="2O9Cie5Bvz8EAmSfbhEEbVksTqW" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -133,6 +161,88 @@
       <updated>1680987011364</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DEVIL732/PycharmProjects/test_git&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="" />
+      <created>1680963538369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680963538369</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1680964844618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680964844618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1680966065877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966065877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1680966134289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966134289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nowoe">
+      <created>1680966497409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966497409</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nowoe">
+      <created>1680968255766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680968255766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nowoe">
+      <created>1680968640978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680968640978</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nowoe">
+      <created>1680970794898</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680970794898</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HW-5. Beginning from Alena">
+      <created>1681047280986</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681047280986</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This directory is created for Alena.">
+      <created>1681047987916</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681047987916</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +256,11 @@
                   <entry key="branch">
                     <value>
                       <list>
+<<<<<<< HEAD
                         <option value="origin/master" />
+=======
+                        <option value="HEAD" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
                       </list>
                     </value>
                   </entry>
@@ -164,12 +278,27 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+<<<<<<< HEAD
                   <option value="HEAD" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="master" />
+=======
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
                 </option>
               </RecentGroup>
             </list>
@@ -179,8 +308,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="hello" />
     <MESSAGE value="hello. I'm here" />
     <option name="LAST_COMMIT_MESSAGE" value="hello. I'm here" />
+=======
+    <MESSAGE value="1" />
+    <MESSAGE value="nowoe" />
+    <MESSAGE value="HW-5. Beginning from Alena" />
+    <MESSAGE value="This directory is created for Alena." />
+    <option name="LAST_COMMIT_MESSAGE" value="This directory is created for Alena." />
+>>>>>>> 336fff81511be959b9e031b0d43994ec4c55a37c
   </component>
 </project>
